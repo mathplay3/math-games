@@ -1,0 +1,10 @@
+body{
+  background-image: url("background.svg");
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+.main{
+  border-style: outset;
+  border-radius: 25px;
+  background-color: white;
+}
+
