@@ -3,6 +3,7 @@ body{
   font-family: "Lucida Console", "Courier New", monospace;
 }
 .main{
+  opacity: 90%;
   text-align: center;
   border-style: outset;
   border-radius: 25px;
