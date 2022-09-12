@@ -4,30 +4,40 @@ html, body {
   background-color: #F2DDA4;
   font-family: 'Brush Script MT', cursive;
 }
-.update {
-  align-content: center;
-  width: 100%;
-  background-color: #BFD7B5;
-  box-shadow: 5px 10px;
-  padding: 35px;
-  text-overflow: scroll;
-  border-radius: 25px;
-}
-.list {
-  align-content: center;
-  width: 80%;
-  background-color: #BFD7B5;
-  box-shadow: 5px 10px;
-  padding: 20px;
-  column-count: 2;
-  border-radius: 25px;
-}
 h1 {
-  color: white;
-  background-color: #716A5C;
+  color: #413C58;
+  background-color: #A3C4BC;
+  text-align: center;
+  border-radius: 10px;
+  padding: 5px;
+  width: 60%;
+  margin: auto;
+  margin-bottom: 15px;
+  box-shadow: 5px 10px;
 }
 p {
   color: #413C58;
+}
+.update {
+  background-color: #BFD7B5;
+  align-content: center;
+  margin: auto;
+  margin-bottom: 15px;
+  width: 80%;
+  box-shadow: 5px 10px;
+  padding: 35px;
+  border-radius: 25px;
+}
+.list {
+  background-color: #BFD7B5;
+  align-content: center;
+  margin: auto;
+  margin-bottom: 15px;
+  width: 80%;
+  box-shadow: 5px 10px;
+  padding: 35px;
+  border-radius: 25px;
+  column-count: 2;
 }
 a:link, a:visited {
   background-color: #E7EFC5;
@@ -37,6 +47,7 @@ a:link, a:visited {
   text-align: center;
   text-decoration: none;
   display: inline-block;
+  border-radius: 5px;
 }
 a:hover, a:active {
   background-color: #A3C4BC;
